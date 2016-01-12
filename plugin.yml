@@ -1,0 +1,11 @@
+name: PlayerNameProtect
+main: net.kokicraft.PlayerNameProtect.Main
+version: 1.2.1
+description: PlayerNameProtect for KokiCraft server.
+author: Koke_Cacao
+depend: []
+softdepend: []
+commands:
+    pnp:
+        description: Main command.
+        aliases: [playernameprotect]
